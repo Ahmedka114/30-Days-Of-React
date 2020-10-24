@@ -324,7 +324,7 @@ An array is a collection of different data types which are ordered and changeabl
 #### How to create an empty array
 
 In JavaScript, we can create an array in different ways. Let us see different ways to create an array.
-It is very common to use _const_ instead of _let_ to declare an array variable. If you ar using const it means you do not use that variable name again.
+It is very common to use _const_ instead of _let_ to declare an array variable. If you are using const it means you do not use that variable name again.
 
 - Using Array constructor
 
@@ -1886,9 +1886,9 @@ person.isMarried = true
 
 person.getPersonInfo = function () {
   let skillsWithoutLastSkill = this.skills
-    .splice(0, this.skills.length - 1)
+    .slice(0, this.skills.length - 1)
     .join(', ')
-  let lastSkill = this.skills.splice(this.skills.length - 1)[0]
+  let lastSkill = this.skills.slice(this.skills.length - 1)[0]
 
   let skills = `${skillsWithoutLastSkill}, and ${lastSkill}`
   let fullName = this.getFullName()

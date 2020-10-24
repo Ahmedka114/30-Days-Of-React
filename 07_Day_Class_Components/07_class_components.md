@@ -14,7 +14,7 @@
 
 </div>
 
-[<< Day 6](../06_Day_Map_List_Keys/06_map_list_keys.md) | [Day 8 >>](../07_Day_Class_Components/07_class_components.md)
+[<< Day 6](../06_Day_Map_List_Keys/06_map_list_keys.md) | [Day 8 >>](../08_Day_States/08_states.md)
 
 ![30 Days of React banner](../images/30_days_of_react_banner_day_7.jpg)
 
@@ -24,10 +24,11 @@
 - [Exercises](#exercises)
   - [Exercises: Level 1](#exercises-level-1)
   - [Exercises: Level 2](#exercises-level-2)
+  - [Exercises: Level 3](#exercises-level-3)
 
 # Class Components
 
-In the previous sections, we have covered JSX, functional component and props. In this section, we will cover class components or statefull component. Only class based components used to have state and life cycle methods. However, after React version 16.8.0 functional components can have state and life cycle using React Hooks. In 30 Days Of React challenge, we will cover React before 16.8.0 and after, that mean both old and newest version. There are lots of codes written in older version and at some point it may need migration. In addition, to understand React very well someone has to understand class based component too.
+In the previous sections, we have covered JSX, functional component and props. In this section, we will cover class components or stateful component. Only class based components used to have state and life cycle methods. However, after React version 16.8.0 functional components can have state and life cycle using React Hooks. In 30 Days Of React challenge, we will cover React before 16.8.0 and after, that mean both old and newest version. There are lots of codes written in older version and at some point it may need migration. In addition, to understand React very well someone has to understand class based component too.
 
 All the previous components are functional components. Let us make also class based component. Class based component is made using JavaScript class and it inherits from react Component. Let us learn how to make a class based component by converting all the functional components we made previously. It is not important to convert all but we are converting them for the sake of learning how to change functional components to class components.
 
@@ -825,14 +826,20 @@ In next section, we will cover state which is the heart of React. State allows R
 2. What is inheritance and how do you make a child from a parent class?
 3. What is class based React component ?
 4. What is the difference between functional React component and class based React component ?
-5. What is the use cases of class based component ?
-6. What is React life cycle ? (not covered yet) ?
-7. What is state in React ?
+5. When do we need to use class based components instead of functional components
+6. What is the use cases of class based component ?
+7. Which type of component do use most frequently ? functional or class-based component
+8. What is React life cycle ? (not covered yet) ?
+9. What is state in React ? (not covered yet)
 
 ## Exercises: Level 2
 
 Learn more about class based component by changing previous days exercises to class based components
 
+## Exercises: Level 3
+
+Coming ...
+
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 6](../06_Day_Map_List_Keys/06_map_list_keys.md) | [Day 8 >>](../07_Day_Class_Components/07_class_components.md)
+[<< Day 6](../06_Day_Map_List_Keys/06_map_list_keys.md) | [Day 8 >>](../08_Day_States/08_states.md)
