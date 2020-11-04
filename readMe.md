@@ -26,7 +26,11 @@
 |01|[JavaScript Refresher](./01_Day_JavaScript_Refresher/01_javascript_refresher.md)|
 |02|[Getting Started React](./02_Day_Introduction_to_React/02_introduction_to_react.md)|
 |03|[Setting Up](./03_Day_Setting_Up/03_setting_up.md)|
+<<<<<<< HEAD
 |04|[Components](./04_Day_Component/04_components.md)|
+=======
+|04|[Components](./04_Day_Components/04_components.md)|
+>>>>>>> upstream/master
 |05|[Props](./05_Day_Props/05_props.md)|
 |06|[List, Map and Keys](./06_Day_Map_List_Keys/06_map_list_keys.md)|
 |07|[Class Components](./07_Day_Class_Components/07_class_components.md)|
@@ -47,6 +51,15 @@
 |22|[Forms Using Hook](./22_Form_Using_Hooks/22_form_using_hooks.md)|
 |23|[Fetching Data Using Hooks](./23_Fetching_Data_Using_Hooks/23_fetching_data_using_hooks.md)|
 |24|[Project using Hooks](./24_projects/24_projects.md)|
+<<<<<<< HEAD
+=======
+|25|[Custom Hooks](./25_Custom_Hooks/25_custom_hooks.md)|
+|26|[Context](./26_Context/26_context.md)|
+|27|[Ref](./27_Ref/27_ref.md)|
+|28|[project](./28_project/28_project.md)|
+|29|[Explore](./29_explore/29_explore.md)|
+|30|[Conclusions](./30_conclusions/30_conclusions.md)|
+>>>>>>> upstream/master
 
 
 

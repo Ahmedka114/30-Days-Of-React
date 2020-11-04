@@ -14,7 +14,11 @@
 
 </div>
 
+<<<<<<< HEAD
 [<< Day 23](../23_Fetching_Data_Using_Hooks/23_fetching_data_using_hooks.md) | [Day 25>>]()
+=======
+[<< Day 23](../23_Fetching_Data_Using_Hooks/23_fetching_data_using_hooks.md) | [Day 25>>](../25_Custom_Hooks/25_custom_hooks.md)
+>>>>>>> upstream/master
 
 ![30 Days of React banner](../images/30_days_of_react_banner_day_24.jpg)
 
@@ -27,4 +31,8 @@
 
 🎉 CONGRATULATIONS ! 🎉
 
+<<<<<<< HEAD
 [<< Day 23](../23_Fetching_Data_Using_Hooks/23_fetching_data_using_hooks.md) | [Day 25>>]()
+=======
+[<< Day 23](../23_Fetching_Data_Using_Hooks/23_fetching_data_using_hooks.md) | [Day 25>>](../25_Custom_Hooks/25_custom_hooks.md)
+>>>>>>> upstream/master

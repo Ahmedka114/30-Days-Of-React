@@ -14,7 +14,11 @@
 
 </div>
 
+<<<<<<< HEAD
 [<< Day 14](../14_Day_Component_Life_Cycles/14_component_life_cycles.md) | [Day 16 >>]()
+=======
+[<< Day 14](../14_Day_Component_Life_Cycles/14_component_life_cycles.md) | [Day 16 >>](../16_Higher_Order_Component/16_higher_order_component.md)
+>>>>>>> upstream/master
 
 ![30 Days of React banner](../images/30_days_of_react_banner_day_15.jpg)
 
